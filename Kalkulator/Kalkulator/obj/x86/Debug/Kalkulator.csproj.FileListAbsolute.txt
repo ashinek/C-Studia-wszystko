@@ -1,0 +1,5 @@
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.pdb

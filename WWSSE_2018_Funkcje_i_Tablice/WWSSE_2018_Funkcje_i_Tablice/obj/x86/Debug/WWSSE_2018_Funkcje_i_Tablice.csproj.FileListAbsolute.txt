@@ -1,0 +1,4 @@
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_2018_Funkcje_i_Tablice\WWSSE_2018_Funkcje_i_Tablice\bin\Debug\WWSSE_2018_Funkcje_i_Tablice.exe
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_2018_Funkcje_i_Tablice\WWSSE_2018_Funkcje_i_Tablice\bin\Debug\WWSSE_2018_Funkcje_i_Tablice.pdb
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_2018_Funkcje_i_Tablice\WWSSE_2018_Funkcje_i_Tablice\obj\x86\Debug\WWSSE_2018_Funkcje_i_Tablice.exe
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_2018_Funkcje_i_Tablice\WWSSE_2018_Funkcje_i_Tablice\obj\x86\Debug\WWSSE_2018_Funkcje_i_Tablice.pdb

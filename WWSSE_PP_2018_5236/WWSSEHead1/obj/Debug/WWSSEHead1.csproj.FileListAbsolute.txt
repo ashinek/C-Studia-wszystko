@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSEHead1\bin\Debug\WWSSEHead1.exe.config
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSEHead1\bin\Debug\WWSSEHead1.exe
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSEHead1\bin\Debug\WWSSEHead1.pdb
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSEHead1\obj\Debug\WWSSEHead1.csprojAssemblyReference.cache
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSEHead1\obj\Debug\WWSSEHead1.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSEHead1\obj\Debug\WWSSEHead1.exe
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSEHead1\obj\Debug\WWSSEHead1.pdb

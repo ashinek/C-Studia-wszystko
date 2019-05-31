@@ -1,0 +1,4 @@
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_008\WWSSE_008\bin\Debug\WWSSE_008.exe
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_008\WWSSE_008\bin\Debug\WWSSE_008.pdb
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_008\WWSSE_008\obj\x86\Debug\WWSSE_008.exe
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_008\WWSSE_008\obj\x86\Debug\WWSSE_008.pdb

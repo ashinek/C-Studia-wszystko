@@ -1,0 +1,11 @@
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\bin\Debug\WWSSENWW.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\bin\Debug\WWSSENWW.pdb
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\obj\x86\Debug\WWSSENWW.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\obj\x86\Debug\WWSSENWW.pdb
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\obj\x86\Debug\WWSSENWW.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\bin\Debug\WWSSENWW.exe
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\bin\Debug\WWSSENWW.pdb
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\obj\x86\Debug\WWSSENWW.csprojAssemblyReference.cache
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\obj\x86\Debug\WWSSENWW.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\obj\x86\Debug\WWSSENWW.exe
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSENWW\obj\x86\Debug\WWSSENWW.pdb

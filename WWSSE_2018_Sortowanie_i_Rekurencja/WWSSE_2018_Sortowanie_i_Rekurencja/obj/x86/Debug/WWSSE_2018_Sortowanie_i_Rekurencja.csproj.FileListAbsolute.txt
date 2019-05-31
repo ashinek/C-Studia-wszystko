@@ -1,0 +1,4 @@
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_2018_Sortowanie_i_Rekurencja\WWSSE_2018_Sortowanie_i_Rekurencja\bin\Debug\WWSSE_2018_Sortowanie_i_Rekurencja.exe
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_2018_Sortowanie_i_Rekurencja\WWSSE_2018_Sortowanie_i_Rekurencja\bin\Debug\WWSSE_2018_Sortowanie_i_Rekurencja.pdb
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_2018_Sortowanie_i_Rekurencja\WWSSE_2018_Sortowanie_i_Rekurencja\obj\x86\Debug\WWSSE_2018_Sortowanie_i_Rekurencja.exe
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_2018_Sortowanie_i_Rekurencja\WWSSE_2018_Sortowanie_i_Rekurencja\obj\x86\Debug\WWSSE_2018_Sortowanie_i_Rekurencja.pdb

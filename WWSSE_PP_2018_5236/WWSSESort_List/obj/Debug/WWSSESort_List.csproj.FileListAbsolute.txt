@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSESort_List\obj\Debug\WWSSESort_List.csprojAssemblyReference.cache
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSESort_List\obj\Debug\WWSSESort_List.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSESort_List\bin\Debug\WWSSESort_List.exe.config
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSESort_List\bin\Debug\WWSSESort_List.exe
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSESort_List\bin\Debug\WWSSESort_List.pdb
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSESort_List\obj\Debug\WWSSESort_List.exe
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSESort_List\obj\Debug\WWSSESort_List.pdb

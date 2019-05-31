@@ -1,0 +1,8 @@
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_PP_2018_90082810334\Zadanie 1\bin\Debug\Zadanie 1.exe
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_PP_2018_90082810334\Zadanie 1\bin\Debug\Zadanie 1.pdb
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_PP_2018_90082810334\Zadanie 1\obj\x86\Debug\Zadanie 1.exe
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE_PP_2018_90082810334\Zadanie 1\obj\x86\Debug\Zadanie 1.pdb
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\Zadanie 1\obj\x86\Debug\Zadanie 1.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\Zadanie 1\obj\x86\Debug\Zadanie 1.pdb
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\Zadanie 1\bin\Debug\Zadanie 1.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\Zadanie 1\bin\Debug\Zadanie 1.pdb

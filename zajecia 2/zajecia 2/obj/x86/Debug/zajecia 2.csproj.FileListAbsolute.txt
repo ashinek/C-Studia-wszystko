@@ -1,0 +1,4 @@
+c:\users\dominik\documents\visual studio 2010\Projects\zajecia 2\zajecia 2\bin\Debug\zajecia 2.exe
+c:\users\dominik\documents\visual studio 2010\Projects\zajecia 2\zajecia 2\bin\Debug\zajecia 2.pdb
+c:\users\dominik\documents\visual studio 2010\Projects\zajecia 2\zajecia 2\obj\x86\Debug\zajecia 2.exe
+c:\users\dominik\documents\visual studio 2010\Projects\zajecia 2\zajecia 2\obj\x86\Debug\zajecia 2.pdb

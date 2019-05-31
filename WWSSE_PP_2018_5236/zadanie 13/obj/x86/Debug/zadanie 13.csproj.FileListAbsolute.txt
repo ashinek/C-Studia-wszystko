@@ -1,0 +1,4 @@
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\zadanie 13\bin\Debug\zadanie 13.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\zadanie 13\bin\Debug\zadanie 13.pdb
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\zadanie 13\obj\x86\Debug\zadanie 13.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\zadanie 13\obj\x86\Debug\zadanie 13.pdb

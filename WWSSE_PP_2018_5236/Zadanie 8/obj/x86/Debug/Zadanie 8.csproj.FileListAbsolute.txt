@@ -1,0 +1,4 @@
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\Zadanie 8\bin\Debug\Zadanie 8.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\Zadanie 8\bin\Debug\Zadanie 8.pdb
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\Zadanie 8\obj\x86\Debug\Zadanie 8.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\Zadanie 8\obj\x86\Debug\Zadanie 8.pdb

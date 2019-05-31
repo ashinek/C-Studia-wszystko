@@ -1,0 +1,4 @@
+c:\users\dominik\documents\visual studio 2010\Projects\wwsese2018_02\wwsese2018_02\bin\Debug\wwsese2018_02.exe
+c:\users\dominik\documents\visual studio 2010\Projects\wwsese2018_02\wwsese2018_02\bin\Debug\wwsese2018_02.pdb
+c:\users\dominik\documents\visual studio 2010\Projects\wwsese2018_02\wwsese2018_02\obj\x86\Debug\wwsese2018_02.exe
+c:\users\dominik\documents\visual studio 2010\Projects\wwsese2018_02\wwsese2018_02\obj\x86\Debug\wwsese2018_02.pdb

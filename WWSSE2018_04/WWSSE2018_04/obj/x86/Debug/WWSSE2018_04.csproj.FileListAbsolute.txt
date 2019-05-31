@@ -1,0 +1,5 @@
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE2018_04\WWSSE2018_04\bin\Debug\WWSSE2018_04.exe
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE2018_04\WWSSE2018_04\bin\Debug\WWSSE2018_04.pdb
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE2018_04\WWSSE2018_04\obj\x86\Debug\WWSSE2018_04.exe
+c:\users\dominik\documents\visual studio 2010\Projects\WWSSE2018_04\WWSSE2018_04\obj\x86\Debug\WWSSE2018_04.pdb
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE2018_04\WWSSE2018_04\obj\x86\Debug\WWSSE2018_04.csprojResolveAssemblyReference.cache

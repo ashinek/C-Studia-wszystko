@@ -1,0 +1,10 @@
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSECount\bin\Debug\WWSSECount.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSECount\bin\Debug\WWSSECount.pdb
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSECount\obj\x86\Debug\WWSSECount.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSECount\obj\x86\Debug\WWSSECount.pdb
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSECount\bin\Debug\WWSSECount.exe
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSECount\bin\Debug\WWSSECount.pdb
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSECount\obj\x86\Debug\WWSSECount.csprojAssemblyReference.cache
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSECount\obj\x86\Debug\WWSSECount.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSECount\obj\x86\Debug\WWSSECount.exe
+D:\Visual Studio 2010\Projects\WWSSE_PP_2018_5236\WWSSECount\obj\x86\Debug\WWSSECount.pdb
